@@ -184,6 +184,8 @@ void sizeTest() {
 
 void freeStructTest() {
 
+free(dynStu);
+	free(staticStu);
 
 	
 
