@@ -1,0 +1,11 @@
+// Now remove text after a // or after a /*
+	/* This is also a test */
+	/* as is this // */ and why is this text not commented out??
+	int foo(char a)
+	{
+	    // More testing.
+		return (int a);
+	}
+	/* this is a multi
+	line test of a comment
+	block*/ Do you see the text at the end /*but not this*/ ?
