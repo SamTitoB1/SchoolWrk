@@ -1,0 +1,3 @@
+﻿  A5SboodooDlg.cpp
+C:\Users\Admin\Desktop\C Programming\BIT2400\A5Sboodoo\A5Sboodoo\A5SboodooDlg.cpp(205,24): warning C4244: 'argument': conversion from 'double' to 'wchar_t', possible loss of data
+  A5Sboodoo.vcxproj -> C:\Users\Admin\Desktop\C Programming\BIT2400\A5Sboodoo\x64\Debug\A5Sboodoo.exe
