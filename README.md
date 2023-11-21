@@ -1,7 +1,6 @@
 # SchoolWrk
-Related Coursework and Assignments for Bachelors of Information Technology,
-//
-CARLETON UNIVERSITY + ALGONQUIN COLLEGE 
+Related Coursework and Assignments 
+
 //
 In this repository, contains many of my workings of previous Assignments, Quizzes, Tutorials, and Lab Practicals
 //
